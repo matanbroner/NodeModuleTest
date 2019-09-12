@@ -1,0 +1,19 @@
+{
+  "name": "calculator-module",
+  "version": "1.0.0",
+  "description": "A module that Matan made to do basic calculations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matanbroner/NodeModuleTest.git"
+  },
+  "author": "Matan Broner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matanbroner/NodeModuleTest/issues"
+  },
+  "homepage": "https://github.com/matanbroner/NodeModuleTest#readme"
+}
